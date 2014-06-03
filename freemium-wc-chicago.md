@@ -1,50 +1,96 @@
-# Building a Sustainable Business w/ the Freemium Business Model
-
-### Patrick Rauland - @BFTrick
-
----
-
 # [fit] Freemium
 # [fit] for the Rest of Us
 
----
+### Patrick Rauland - @BFTrick
 
-# About Me
-
-* From: Wisconsin
-
-![](assets/images/wisconsin.jpg)
+^ I'm going to start off with a story.
 
 ---
 
-# About Me
+# [fit] Selling Something is
+# [fit] *Hard*
 
-* From: Wisconsin
-* Love: Yoga
+^ Madmen - you just need an advertising budget and you can sell anything.
 
-![](assets/images/yoga.jpg)
+^ 3 channels + PBS
 
----
-
-# About Me
-
-* From: Wisconsin
-* Love: Yoga
-* Occupation: Support Ninja for WooThemes
-
-![fit|right](assets/images/logos/woothemes-logo.png)
+^ It didn't matter what you sold; as long as you had a good marketing team you could sell anything. There was no Internet where you can look at the reviews. There was no YouTube where you can see how easy it is to setup.
 
 ---
 
-# [fit]WooCommerce
+# [fit] We're Drowning in
+# [fit] *Information*
 
 ---
 
-![fit](assets/images/builtwith-pie-chart.png)
+# [fit] *7 Million*
+# [fit] Results for "WordPress E-Commerce Plugin"
+
+^ If you want to find out the best e-commerce plugin for WordPress.
 
 ---
 
-![fit](assets/images/builtwith-over-time.png)
+# [fit] How do *you*
+# [fit] Stand out
+# [fit] *Against Millions*?
+
+---
+
+# [fit] Give Something Away
+# [fit] *For Free*
+
+^ and when I say free I mean free free. No 30 day trials, no usage limits, give something people can use.
+
+^ with any electronic good it's incredibly easy to give stuff away for free at no cost to yourself
+
+---
+
+> Build a better mousetrap, and the world will beat a path to your door
+
+-- Ralph Waldo Emerson
+
+^ Does anyone here know this quote?
+
+^ Isn't this the quintessential american dream?
+
+---
+
+# [fit] It's *wrong*
+
+---
+
+# [fit] Qwerty & Dvorak
+
+^ You're probably not going to believe me when I say that but I'm serious.
+
+^ Who here knows what Dvorak is? How about Qwerty?
+
+^ Qwerty was designed to prevent jams by placing common keys away from each other like "th" or "st".
+
+^ Every word in the English language has a vowel and only the "A" key is on the home row. The rest of them are spread out so you have to move your fingers.
+
+---
+
+# [fit] Free Products Lower the
+# [fit] *Switching Costs*
+
+---
+
+# [fit] Marketing
+# [fit] is in *Every*
+# [fit] Interaction
+
+^ Marketing departments are a relic of a past age.
+
+^ If you get grumpy with a customer via support they can take screenshots and post them. People will read them and might their opinion towards you.
+
+^ If your developers are really slow implementing new features people will be stuck with the basics and wont recommend your product or your company
+
+^ If your checkout is compromised and credit card numbers are leaked you can bet that will change people's opinions.
+
+---
+
+
 
 ---
 
@@ -88,12 +134,6 @@
 
 ---
 
-# 30 Second Clips
-
-![](assets/images/high-heels.jpg)
-
----
-
 # Dropbox
 ![fit](assets/images/logos/dropbox-logo.png)
 
@@ -127,7 +167,7 @@
 
 ---
 
-![fit|original](assets/images/logos/wp-engine-logo.png)
+![fit](assets/images/logos/wp-engine-logo.png)
 
 ---
 
