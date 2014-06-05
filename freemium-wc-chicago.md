@@ -5,6 +5,10 @@
 
 ^ I'm going to start off with a story.
 
+^ My partner loves cooking
+
+^ Oshkosh is kind of a small town. It's a college surrounded by like a crust of a city (sorry if anyone's from Oshkosh).
+
 ---
 
 # [fit] Selling Something is
@@ -71,159 +75,92 @@
 
 ---
 
-# [fit] Free Products Lower the
+# [fit] Free Products do
+# [fit] *Two*
+# [fit] Amazing Things
+
+^ and I'm going to tell you the first one right now
+
+---
+
+# [fit] #1 Free Products Lower the
 # [fit] *Switching Costs*
 
----
-
-# [fit] Marketing
-# [fit] is in *Every*
-# [fit] Interaction
-
-^ Marketing departments are a relic of a past age.
-
-^ If you get grumpy with a customer via support they can take screenshots and post them. People will read them and might their opinion towards you.
-
-^ If your developers are really slow implementing new features people will be stuck with the basics and wont recommend your product or your company
-
-^ If your checkout is compromised and credit card numbers are leaked you can bet that will change people's opinions.
+^ So while I still would have to learn Dvorak I wouldn't have to buy a new keyboard.
 
 ---
 
-
-
----
-
-# [fit]What is Freemium?
+# [fit] Human Beings
+# [fit] *Love* Information
 
 ---
 
-# Free food at the mall
+# [fit] We're *Drowning*
+# [fit] in Information
+# [fit] Because We *Crave* It
 
-![](assets/images/starbucks-free-sample.jpg)
+^ There's a reason there's 7 million results for e-commerce solutions
+
+^ There's a reason that there's youtube tutorials for everything under the sky
+
+^ We research everything. We look up menus before we go to restaurants, we ask our friends for advice for just about anything, we use our GPS systems to go three blocks, and when we don't have any of those we look up our horoscopes.
+
+^ We love knowing what other people are doing and what we should be doing
 
 ---
 
-# Free Chapters of Sequel
+# [fit] We Care
+# [fit] About The *How*
+# [fit] of Things Work
+
+^ Back in the Madmen days you could say "it's so easy", "it's so fast", "it does everything you need". But we've grown up since then.
+
+---
+
+# [fit] We're More
+# [fit] *Skeptical*
+
+^ Back in the Madmen days you could say "it's so easy", "it's so fast", "it does everything you need". But we've grown up since then.
+
+^ Easy & Fast Couldn't Mean Less now. They're the two words that infomercials rely on.
+
+^ Honestly easy and fast are throw away words. Are there any products that aren't fast or aren't easy?
+
+^ We don't trust marketers anymore. There's a reason by Seth Godin named his book All Marketers are Liars.
+
+---
+
+# [fit] Let Your Product
+# [fit] Be Your Marketing Team
+
+^ I think the marketing department is outdated. There shouldn't be a marketing department that's all talk and no show.
+
+^ We don't have to read through documentation. We use friends, we use reviews, and we use demos to do research for us.
+
+^ If you're selling a CD I want to know your sound. If you're a writer I want to know your style. If you're a film maker I want to know your cinematography. If you're a game developer I want to know how you challenge the user. If you have the best plugin I want to know how you update it.
+
+---
+
+# [fit] #2 Free Products
+# [fit] *Inform* Your Users
+
+---
+
+# [fit] Nothing is better
+# [fit] selling your product
+# [fit] than the product itself
+
+^ If you use WooCommerce and love everything about it except you want to use Stripe instead of PayPal you know that everything else is going to work exactly the same except the payment at the end. The products will be layed out the same. They'll be input the same. They taxes are calculated the same, so is the shipping.
+
+---
+
+# [fit] Examples
+
+---
+
+# Leo Babauta From ZenHabits.net
 
 ![](assets/images/book.jpg)
-
----
-
-# Premium Content
-
-![](assets/images/computer-notebook.jpg)
-
----
-
-# Angry Birds
-
-![](assets/images/games/angry-birds.png)
-
----
-
-# Candy Crush
-
-![](assets/images/games/candy-crush.jpg)
-
----
-
-# Dungeon Keeper
-
-![](assets/images/games/dungeon-keeper.jpg)
-
----
-
-# Dropbox
-![fit](assets/images/logos/dropbox-logo.png)
-
----
-
-# Mailchimp
-
-![fit](assets/images/logos/mailchimp-logo.png)
-
----
-
-# Buffer
-![fit|original](assets/images/logos/buffer-logo.png)
-
----
-
-# Google (apps)
-![fit](assets/images/logos/google-logo.png)
-
----
-
-# Basecamp
-
-![fit](assets/images/logos/basecamp-logo.png)
-
----
-
-# ServerPress
-
-![fit](assets/images/logos/serverpress-logo.png)
-
----
-
-![fit](assets/images/logos/wp-engine-logo.png)
-
----
-
-# [fit] Advantages of
-# [fit] Freemium
-
----
-
-# [fit] People Can See
-# [fit] What it Really is
-
-![](assets/images/gears.jpg)
-
-^ I knew that WooCommerce was going to be a good product even before I tried it because I had previous used and modified Features & Testimonials.
-
-^ Leo Babauta blogs several times a week so you can understand him and then he releases premium contests, groups, videos, etc.
-
-^ A friend of mine, Kevin McLeod, who scores music gives away a ton of music so people know his name
-
----
-
-> 60% of our sales come after users read our documentation
-
--- Warren Holmes in http://www.warrenholmes.co.za/documentation-marketing/
-
----
-
-# [fit] Collaboration
-
-![](assets/images/building-blocks.jpg)
-
-^ You can’t be an expert at everything. No one can. This way we can pool resources together to come up with the best solution.
-
-^ I know I’ve committed to WooThemes projects to get a project done.
-
-^ Commentors on my blog have helped other commentors.
-
----
-
-# [fit] Freemium Flavors
-
-![](assets/images/ice-cream.jpg)
-
----
-
-# Donation
-
-![](assets/images/tip-jar.jpg)
-
-^ If you are going to use a donation model make the user pay first. Mike Jolley's download monitor does this.
-
----
-
-# Branding / Self Promotion
-
-![original](assets/images/yoast-banner.png)
 
 ---
 
@@ -231,51 +168,47 @@
 
 ---
 
-# Extensions / Add-ons
+# Angry Birds
 
-^ WooCommerce, EDD, MailPoet, Ninja Forms, LastPass, Remember the Milk
-
-^ There is a fine line to walk to put enough functionality into core
+![](assets/images/angry-birds.png)
 
 ---
 
-# Software as a Service (SaaS)
-
-^ WordPress.com, Buffer, MailChimp, Akismet, VaultPress, Google Apps, Dropbox
+![fit](assets/images/logos/pathfinder.jpg)
 
 ---
 
-# Micropayments
-
-^ Candy Crush, Angry Birds, Dungeon Keeper, etc.
-
-^ With this model you're banking on creating an addictive game that people can't stop playing
-
-^ You may only have a 1% conversion rate but that 1% can easily cover the other 99%
+![fit](assets/images/logos/dropbox-logo.png)
 
 ---
 
-# Follow Up
+![fit](assets/images/logos/mailchimp-logo.png)
 
-Nick Ciske - Plugin Monetization Options - http://2014.minneapolis.wordcamp.org/session/plugin-monetization-options/
+---
 
-Kim Gjerstad - Freemium, a sustainable model for your plugin - http://www.youtube.com/watch?v=cjSPkQ-v8To
+![fit](assets/images/logos/buffer-logo.png)
+
+---
+
+![fit](assets/images/logos/google-logo.png)
+
+---
+
+![fit](assets/images/logos/basecamp-logo.png)
+
+---
+
+![fit](assets/images/logos/serverpress-logo.png)
+
+---
+
+# [fit] Freemium sells your
+# [fit] product for you
+# [fit] You just have to
+# [fit] let go of a tiny piece
 
 ---
 
 # [fit] Questions??
 
 # [fit] Patrick Rauland - @BFTrick
-
----
-
-# Attribution
-
-* Wisconsin - http://www.flickr.com/photos/7643570@N04/8342464016
-* Starbucks Free Sample - http://www.flickr.com/photos/48889062369@N01/4948232118/
-* High heels - http://www.flickr.com/photos/22132593@N08/3975476236/
-* Gears - https://www.flickr.com/photos/38383999@N06/3552898254
-* Building Blocks -
-http://www.flickr.com/photos/51980416@N03/5315722243
-* Ice Cream - http://www.flickr.com/photos/34997998@N00/129640404/
-* Tip Jar - http://www.flickr.com/photos/16227888@N00/4385845328/
