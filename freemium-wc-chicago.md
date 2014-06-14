@@ -3,11 +3,9 @@
 
 ### Patrick Rauland - @BFTrick
 
-^ I'm going to start off with a story.
+^ I'm going to talk about a success story. A story where there is an unknown company that releases a new product in an industry with 200,000 other products.
 
-^ My partner loves cooking
-
-^ Oshkosh is kind of a small town. It's a college surrounded by like a crust of a city (sorry if anyone's from Oshkosh).
+^ After 5 years the company is worth 1 billion dollars
 
 ---
 
@@ -16,7 +14,7 @@
 
 ^ Madmen - you just need an advertising budget and you can sell anything.
 
-^ 3 channels + PBS
+^ Who here saw the latest X-men movie where they go back to the past? There's this great line where they say, "I wrote a program that records *all 3* networks and PBS."
 
 ^ It didn't matter what you sold; as long as you had a good marketing team you could sell anything. There was no Internet where you can look at the reviews. There was no YouTube where you can see how easy it is to setup.
 
@@ -24,6 +22,10 @@
 
 # [fit] We're Drowning in
 # [fit] *Information*
+
+^ The average person is served over 1,700 banner ads per month. Do you remember any?
+
+^ Do you know what a good conversion rate is for a banner ad on a website? .1%. That's dismal.
 
 ---
 
@@ -65,11 +67,21 @@
 
 # [fit] Qwerty & Dvorak
 
-^ You're probably not going to believe me when I say that but I'm serious.
-
 ^ Who here knows what Dvorak is? How about Qwerty?
 
+---
+
+# Qwerty
+
+![fit](assets/images/keyboards/qwerty.png)
+
 ^ Qwerty was designed to prevent jams by placing common keys away from each other like "th" or "st".
+
+---
+
+# Dvorak
+
+![fit](assets/images/keyboards/dvorak.png)
 
 ^ Every word in the English language has a vowel and only the "A" key is on the home row. The rest of them are spread out so you have to move your fingers.
 
@@ -154,6 +166,16 @@
 
 ---
 
+# [fit] Back to the story
+
+^ Do you remember the story I started with. The business that competed with 200,000 competitors and is now valued more than 1 billion dollars?
+
+---
+
+![fit](assets/images/angry-birds.png)
+
+---
+
 # [fit] Examples
 
 ---
@@ -165,12 +187,6 @@
 ---
 
 ![](assets/videos/gopro.mov)
-
----
-
-# Angry Birds
-
-![](assets/images/angry-birds.png)
 
 ---
 
@@ -209,6 +225,6 @@
 
 ---
 
-# [fit] Questions??
-
 # [fit] Patrick Rauland - @BFTrick
+
+![](assets/images/phoenix.jpg)
