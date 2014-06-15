@@ -113,15 +113,27 @@
 
 ^ Qwerty was designed back when we had typewriters to prevent jams by placing common keys away from each other like "th" or "st".
 
+^ Every word in the English language has a vowel and only the "A" key is on the home row. The rest of them are spread out so you have to move your fingers.
+
 ---
 
 # Dvorak
 
 ![fit](assets/images/keyboards/dvorak.png)
 
-^ Every word in the English language has a vowel and only the "A" key is on the home row. The rest of them are spread out so you have to move your fingers.
+^ Notice how all of the vowels are on the home row.
 
-^ So while I still would have to learn Dvorak I wouldn't have to buy a new keyboard.
+^ Notice
+
+---
+
+# [fit] Dvorak > Qwerty
+
+^ Dvorak is certainly better. It's way faster. It isn't designed to slow us down. So why aren't we using it? It's only being used by computer nerds. It's those switching costs.
+
+^ Companies, like Apple, don't want to carry a whole new type of keyboard. Who want's to carry all that additional stock?
+
+^ Who want's to relearn how to type? I just did a typing test this morning and I type 63 words a minute. Not amazing but definitely something I don't want to relearn.
 
 ---
 
