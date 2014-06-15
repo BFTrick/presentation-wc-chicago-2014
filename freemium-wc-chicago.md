@@ -265,6 +265,27 @@
 
 ---
 
-# [fit] Patrick Rauland - @BFTrick
+# [fit] Questions
+
+^ Now - I thought it would be really nice to give you guys a couple sample questions to help you guys out.
+
+---
+
+# [fit] Patrick, where did you
+# [fit] get such *fly kicks*?
+
+---
+
+# [fit] What happened that one time
+# [fit] at WordCamp Chicago?
+
+---
+
+## Patrick Rauland - *@BFTrick*
+### WooThemes
 
 ![](assets/images/phoenix.jpg)
+
+^ So that's me. I work for WooThemes and we make WooCommerce.
+
+^ I definitely have time for questions and I have some sample questions.
