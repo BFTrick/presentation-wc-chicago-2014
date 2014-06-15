@@ -5,6 +5,8 @@
 
 ### Slides: http://bit.ly/wcchi14
 
+^ Before I get going I want to share with you my goal of this presentation. I've been inspired by what my company is doing and I really want to encourage other people to try out this unconventional business model. I'm going to cover the problem that we have today that makes this business model ideal and then I've got a whole list of examples of freemium products that I hope can inspire you to make your own freemium product.
+
 ^ I'm going to talk about a success story. A story where there is an unknown company that releases a new product in an industry with 200,000 other products.
 
 ^ After 5 years the company is worth 1 billion dollars
