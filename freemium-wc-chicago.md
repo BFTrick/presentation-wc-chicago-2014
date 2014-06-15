@@ -1,7 +1,9 @@
-# [fit] Freemium
-# [fit] for the Rest of Us
+# Freemium
+# for the Rest of Us
 
 ### Patrick Rauland - @BFTrick
+
+### Slides: http://bit.ly/wcchi14
 
 ^ I'm going to talk about a success story. A story where there is an unknown company that releases a new product in an industry with 200,000 other products.
 
