@@ -39,10 +39,17 @@
 
 ---
 
-# [fit] *7 Million*
+# [fit] *8 Million*
 # [fit] Results for "WordPress E-Commerce Plugin"
 
 ^ If you want to find out the best e-commerce plugin for WordPress.
+
+---
+
+# [fit] *2 Million*
+# [fit] Results for "WordPress E-Commerce Plugin *Review*"
+
+^ If you want to find review of the best plugin
 
 ---
 
@@ -59,6 +66,8 @@
 
 ^ with any electronic good it's incredibly easy to give stuff away for free at no cost to yourself
 
+^ Keep in mind you don't have to give away everything. Give people enough to really understand your product and to understand you.
+
 ---
 
 # [fit] Free Products do
@@ -72,7 +81,7 @@
 # [fit] #1 Free Products Lower the
 # [fit] *Switching Costs*
 
-^ Imagine trying to switch your business from Windows over to Macs. It might sound easy but there's actually a lot of costs involved. Hardware, software, learning.
+^ Imagine trying to switch your business from Windows over to Macs. It might sound easy but there's actually a lot of costs involved. Hardware, software, learning. There's also making sure file types are compatible and all that jazz.
 
 ---
 
@@ -88,6 +97,8 @@
 
 # [fit] It's *wrong*
 
+^ We're too overloaded. There's too much competition. How on earth is anyone supposed to know which mousetrap is the best? Do you purchase all 200,000 and try them out?
+
 ---
 
 # [fit] Qwerty & Dvorak
@@ -100,7 +111,7 @@
 
 ![fit](assets/images/keyboards/qwerty.png)
 
-^ Qwerty was designed to prevent jams by placing common keys away from each other like "th" or "st".
+^ Qwerty was designed back when we had typewriters to prevent jams by placing common keys away from each other like "th" or "st".
 
 ---
 
