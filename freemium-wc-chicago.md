@@ -140,6 +140,8 @@
 # [fit] New Products Need to Mitigate
 # [fit] *Switching Costs*
 
+^ This is obviously much easier to do with a virtual product. You can give it away without any cost to yourself.
+
 ---
 
 # [fit] #2 Free Products
