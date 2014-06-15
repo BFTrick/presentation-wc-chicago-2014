@@ -9,6 +9,16 @@
 
 ---
 
+# Freemium
+
+> Freemium is a pricing strategy by which a product or service is provided free of charge, but money is charged for proprietary features, functionality, or virtual goods.
+
+-- Wikipedia
+
+^ I have several case studies of freemium but before I get to those I really want to address the reason we need freemium today
+
+---
+
 # [fit] Selling Something is
 # [fit] *Hard*
 
@@ -51,6 +61,21 @@
 
 ---
 
+# [fit] Free Products do
+# [fit] *Two*
+# [fit] Amazing Things
+
+^ and I'm going to tell you the first one right now
+
+---
+
+# [fit] #1 Free Products Lower the
+# [fit] *Switching Costs*
+
+^ Imagine trying to switch your business from Windows over to Macs. It might sound easy but there's actually a lot of costs involved. Hardware, software, learning.
+
+---
+
 > Build a better mousetrap, and the world will beat a path to your door
 
 -- Ralph Waldo Emerson
@@ -84,19 +109,6 @@
 ![fit](assets/images/keyboards/dvorak.png)
 
 ^ Every word in the English language has a vowel and only the "A" key is on the home row. The rest of them are spread out so you have to move your fingers.
-
----
-
-# [fit] Free Products do
-# [fit] *Two*
-# [fit] Amazing Things
-
-^ and I'm going to tell you the first one right now
-
----
-
-# [fit] #1 Free Products Lower the
-# [fit] *Switching Costs*
 
 ^ So while I still would have to learn Dvorak I wouldn't have to buy a new keyboard.
 
