@@ -287,5 +287,3 @@
 ![](assets/images/phoenix.jpg)
 
 ^ So that's me. I work for WooThemes and we make WooCommerce.
-
-^ I definitely have time for questions and I have some sample questions.
