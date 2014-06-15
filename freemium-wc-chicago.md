@@ -137,6 +137,11 @@
 
 ---
 
+# [fit] New Products Need to Mitigate
+# [fit] *Switching Costs*
+
+---
+
 # [fit] #2 Free Products
 # [fit] *Inform* Your Users
 
